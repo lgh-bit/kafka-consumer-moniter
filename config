@@ -1,0 +1,2 @@
+xx-prod,manager,172.30.x.xx:9000,play-basic-authentication-filter=f80e6ad76f676fd4851dfc8f8a4xxx,xxxx_manager
+xx-prod2,store_2,172.30.x.xx:9000,play-basic-authentication-filter=f80e6ad76f676fd4851dfc8f8a4xxxx,xxx_store
